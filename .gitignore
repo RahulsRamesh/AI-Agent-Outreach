@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Env & state
+.env
+*.pkl
+.venv/
+venv/
+.idea/
+.DS_Store
+
+# Streamlit logs
+.streamlit/
