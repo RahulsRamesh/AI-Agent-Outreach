@@ -22,7 +22,7 @@ This project implements an AI-powered sales lead generation pipeline using web s
 1. Clone the repository
 2. Create and activate venv
 3. Install requirements.txt
-**4. Create an env file with OpenAI and Firecrawl APIs**
+4. Create an env file with OpenAI and Firecrawl APIs
 5. Run from main.py
 
    
