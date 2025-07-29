@@ -17,12 +17,12 @@ This project implements an AI-powered sales lead generation pipeline using web s
 3. OpenAI generates a sales lead, supporting description, and outreach content
 4. A Streamlit dashboard displays the generated results
 
-##Setup Instructions
+## Setup Instructions
 
 1. Clone the repository
 2. Create and activate venv
 3. Install requirements.txt
-4. ##Create an env file with OpenAI and Firecrawl APIs
+**4. Create an env file with OpenAI and Firecrawl APIs**
 5. Run from main.py
 
    
