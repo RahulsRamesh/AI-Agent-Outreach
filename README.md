@@ -12,7 +12,7 @@ This project implements an AI-powered sales lead generation pipeline using web s
 
 ## How It Works
 
-1. The user provides a client description via the terminal
+1. The user provides a client name via the terminal
 2. Firecrawl fetches and parses relevant content from the web
 3. OpenAI generates a sales lead, supporting description, and outreach content
 4. A Streamlit dashboard displays the generated results
